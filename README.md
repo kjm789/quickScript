@@ -1,7 +1,7 @@
 #quickScript
 A software project for the course Intro to Database using PostGreSql
 
-The application can be found at #
+The application can be found at http://quickscript-michaelkoboldt.rhcloud.com/
 
 QuickScript is a software directed at the independent filmmaker. It is an attempt to take a process that is completed on paper and digitize it!
 
