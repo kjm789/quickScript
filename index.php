@@ -4,7 +4,7 @@
 <!-- Start PHP -->
 <?php
 	//require exec.php for db connection and php functionality
-	require( 'exec.php' );
+	include 'exec.php';
 
 	//begin user session
 	session_start();
