@@ -1,6 +1,6 @@
 <?php
-	DEFINE( "HOST", "host=localhost" );
-	DEFINE( "DBNAME", "dbname=quickScript" );
-	DEFINE( "USERNAME", "user=postgres" );
-	DEFINE( "PASSWORD", "password=Jbuffett7" );
+	DEFINE( "HOST", "host=$OPENSHIFT_POSTGRESQL_DB_HOST" );
+	DEFINE( "DBNAME", "dbname=quickscript" );
+	DEFINE( "USERNAME", "user=adminlw7jdp4" );
+	DEFINE( "PASSWORD", "password=GEf_VrblWlVn" );
 ?>
