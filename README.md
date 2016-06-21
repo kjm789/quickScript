@@ -7,7 +7,7 @@ QuickScript is a software directed at the independent filmmaker. It is an attemp
 
 To use the software, please register an account with QuickScript by clicking the link below the username and password input boxes. After you register an account with QuickScript, EXPLORE!!
 
-If you would like to view an account with dumbie data, please login in with the credentials u: # p: #
+If you would like to view an account with dumbie data, please login in with the credentials u: dan p: password
 
 
 
